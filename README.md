@@ -1,4 +1,6 @@
 # hello-world
 This is a hello world repository
 
-**This is readme-edits branch, not master branch.**
+*acturally i would not do any thing on this project*
+***
+**I am the master branch, but also readme-edits branch**
